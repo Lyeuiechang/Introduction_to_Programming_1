@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1589823619 source:c:\users\lyeuiechang\documents\codeblocks\11762 - e - reverse linked list\11762.c
+	<stdio.h>
+	<stdlib.h>
+	"function.h"
+
+1589820368 c:\users\lyeuiechang\documents\codeblocks\11762 - e - reverse linked list\function.h
+	<stdio.h>
+	<stdlib.h>
+
+1589824032 source:c:\users\lyeuiechang\documents\codeblocks\11762 - e - reverse linked list\function.c
+	<stdio.h>
+	<stdlib.h>
+	"function.h"
+

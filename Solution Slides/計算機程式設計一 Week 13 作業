@@ -1,0 +1,17 @@
+計算機程式設計一 Week 13 作業
+2031 - I2P(I) 2020_Chen_week13
+https://acm.cs.nthu.edu.tw/contest/2031/
+
+日期：2020/06/03 00:00 ~ 2020/06/10 00:00
+
+12142 - Ugandan Knuckles's adventure
+難易度：★★☆☆
+預備知識：Qsort 排序(Week 14)、strcpy, strcat, strncpy 字串處理(Week 13)
+解析：給你幾個數字，排列組合出最大的可能數字
+是否已通過測資：是
+
+12155 - Cat-Toast crisis
+難易度：★★★☆
+預備知識：C Structures自訂結構(Week 14)、Math.h(數學運算 library)
+解析：給你幾個座標點，請判斷發生黑洞融合後剩下幾個點還存在，以及產生了幾個黑洞
+是否已通過測資：否(3/6)
