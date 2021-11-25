@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1593329286 source:c:\users\lyeuiechang\documents\codeblocks\10895 - grade report(different order)\10895.c
+	<stdio.h>
+	<stdlib.h>
+	"function.h"
+
+1593329285 c:\users\lyeuiechang\documents\codeblocks\10895 - grade report(different order)\function.h
+
+1593330406 source:c:\users\lyeuiechang\documents\codeblocks\10895 - grade report(different order)\function.c
+	<stdio.h>
+	<stdlib.h>
+	"function.h"
+

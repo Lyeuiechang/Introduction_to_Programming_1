@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1592960479 source:c:\users\lyeuiechang\documents\codeblocks\12301 - uncle huang choose tutor(easy version)\12301.c
+	"function.h"
+
+1592960480 c:\users\lyeuiechang\documents\codeblocks\12301 - uncle huang choose tutor(easy version)\function.h
+	<stdio.h>
+	<stdlib.h>
+
+1592974687 source:c:\users\lyeuiechang\documents\codeblocks\12301 - uncle huang choose tutor(easy version)\function.c
+	"function.h"
+

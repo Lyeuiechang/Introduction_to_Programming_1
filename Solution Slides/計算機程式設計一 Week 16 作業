@@ -1,0 +1,18 @@
+計算機程式設計一 Week 16 作業
+
+2034 - I2P(I) 2020_Chen_week16
+https://acm.cs.nthu.edu.tw/contest/2034/
+
+截止日期：2020/07/01 00:00
+
+12241 - Restaurants in Hsinchu
+難易度：★★☆☆
+題目說明：求費波納契數列的第N項 Fn % (10^9+7)
+先備知識：快速冪、矩陣乘法
+是否已通過測資：是
+
+12301 - Uncle Huang choose Tutor(Easy version) 
+難易度：★★☆☆
+題目說明：黃書書找家教，有數個候選人圍一圈，候選人編號 1, 2, 3, 4….，請求出最後那個人原本的 index 是多少
+先備知識：指標、C Structure、約瑟夫斯問題
+是否已通過測資：OJ故障中....
